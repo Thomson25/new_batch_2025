@@ -1,6 +1,6 @@
-name=str(input('enter the name: '))
-print('to find factorial')        
-number=int(input('enter the number: '))
-factorial=number(number-1)
-print('the output is ',factorial)
-
+print('To find the number is even or odd: ')
+number=int(input('Enter any number: '))
+if number%2==0:
+  print('The number is even')
+else:
+  print('The number is odd')
