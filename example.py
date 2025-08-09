@@ -1,6 +1,2 @@
-print('To find the number is even or odd: ')
-number=int(input('Enter any number: '))
-if number%2==0:
-  print('The number is even')
-else:
-  print('The number is odd')
+list=['apple','orange','mango','cherry','banana']
+print(list)
