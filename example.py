@@ -1,2 +1,5 @@
-list=['apple','orange','mango','cherry','banana']
-print(list)
+dict={
+  'name': "Thomson",
+  'role': 'Data analyst',
+  'Skills': 'Mysql, PowerBI, Tableau, Python, Excel'
+}
